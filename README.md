@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankdaruka&count_private=true)
+![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayankdaruka&count_private=true)
