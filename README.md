@@ -1,7 +1,7 @@
 ### 👋 Hello! I'm Mayank Daruka, a Computer Science undergrad.
 :blue_book: I attend the **University of Texas at Austin!** <br/>
 :musical_note: My interests are playing tennis :tennis:, watching cricket :cricket_game:, and listening to music. <br/>
-:computer: Here you will find my projects in the fields of **Blockchain**, **Full-Stack Development**, and **Machine Learning**. <br/>
+:computer: Here you will find my projects in the fields of **Blockchain/Cryptocurrency**, **Full-Stack Development**, and **Machine Learning**. <br/>
 :iphone: I'm currently working on developing [Dive Chat](https://dive.chat/), a social platform for college students that has already received over 5000 downloads! <br/>
 📫 Contact me at mayankdaruka2001@gmail.com. <br/>
 
